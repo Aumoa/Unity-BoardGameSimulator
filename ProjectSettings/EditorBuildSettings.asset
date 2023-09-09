@@ -6,9 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/MainScene.unity
+    path: Assets/Scenes/LobbyScene.unity
     guid: 2520c69d407920e49a1bcb79352d0a05
   - enabled: 1
     path: Assets/Scenes/EntryScene.unity
     guid: edbff6972ffa106438909391a5ae70c3
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: a90ae50d7408d46499008187ef3ca0fa, type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: 652050684f08ea441a97fbcf171273ad, type: 2}
+  m_UseUCBPForAssetBundles: 0
